@@ -24,7 +24,7 @@ body{
 }
 
 .texto{
-    text-align: right;
+   text-align: right;
     margin-top: -50;
 }
 
@@ -32,7 +32,7 @@ body{
     color: #ff073a;
     margin-right: 40px;
     font-size: 20px;
-    font-family: FjallaOne-Regular;
+    font-family: FjallaOne-Regular; 
 }
 
 .menu1{
@@ -42,9 +42,6 @@ body{
     font-family: FjallaOne-Regular;
 }
 
-.i{
-    margin: 0px;
-    padding: 0px;
-    width: 25%;
-    height: 25%;
+.text{
+    float: right;
 }
